@@ -13,8 +13,10 @@
   ---
   #### project
   Cafe Moa (https://github.com/ImGdevel/Cafe-Moa)
-  LighthouseAI(https://github.com/pangseon/LightHouseAI)
-
+  <br/>
+  LighthouseAI-BE (https://github.com/pangseon/LightHouseAI)
+  <br/>
+  LighthouseAI-FE (https://github.com/eunaJ/LightHouseAI-front)
   <br/>
   
   ---
