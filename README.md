@@ -12,12 +12,11 @@
 
   ---
   #### project
-  Cafe Moa (https://github.com/ImGdevel/Cafe-Moa)
-  <br/>
-  LighthouseAI-BE (https://github.com/pangseon/LightHouseAI)
-  <br/>
-  LighthouseAI-FE (https://github.com/eunaJ/LightHouseAI-front)
-  <br/>
+  [LighthouseAI-BE](https://github.com/eunaJ/LightHouseAI)
+  
+  [LighthouseAI-FE](https://github.com/eunaJ/LightHouseAI-front)
+  
+  [Cafe MOA](https://github.com/ImGdevel/Cafe-Moa)
   
   ---
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eunaJ)](https://github.com/eunaJeong/github-readme-stats)
