@@ -13,14 +13,6 @@
  
   
   <br/>
-
-  ---
-  #### project
-  [LighthouseAI-BE](https://github.com/eunaJ/LightHouseAI)
-  
-  [LighthouseAI-FE](https://github.com/eunaJ/LightHouseAI-front)
-  
-  [Cafe MOA](https://github.com/eunaJ/Cafe-Moa)
   
   ---
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eunaJ)](https://github.com/eunaJeong/github-readme-stats)
