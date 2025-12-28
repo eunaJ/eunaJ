@@ -14,9 +14,5 @@
   
   <br/>
   
-  ---
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eunaJ)](https://github.com/eunaJeong/github-readme-stats)
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kysn77)](https://solved.ac/kysn77/)
   
 </div>
